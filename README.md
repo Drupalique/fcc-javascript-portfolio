@@ -1,36 +1,78 @@
-# freeCodeCamp JavaScript Portfolio
+# freeCodeCamp JavaScript Certificate Prep
 
-Example exercises organized by topic, modeled after the labs and workshops
-format used in freeCodeCamp's JavaScript curriculum.
+A collection of JavaScript exercises and solutions completed while preparing for the **freeCodeCamp JavaScript certification**.
 
-## Structure
+This repository is organized by topic so individual concepts and exercises are easy to browse.
 
+## 📚 Topics
+
+<details>
+<summary><strong>🔢 Boolean and Numbers</strong></summary>
+
+<br>
+
+JavaScript exercises covering booleans, numbers, comparisons, arithmetic, and related fundamentals.
+
+📂 [`boolean-and-numbers`](./boolean-and-numbers)
+
+</details>
+
+<details>
+<summary><strong>📦 Objects</strong></summary>
+
+<br>
+
+JavaScript exercises focused on creating, accessing, modifying, and working with objects.
+
+📂 [`objects`](./objects)
+
+</details>
+
+<details>
+<summary><strong>📝 Variables and Strings</strong></summary>
+
+<br>
+
+JavaScript exercises covering variables, strings, string manipulation, and related language fundamentals.
+
+📂 [`variables-and-strings`](./variables-and-strings)
+
+</details>
+
+## 🎯 Purpose
+
+This repository serves as a record of my JavaScript practice while working through freeCodeCamp's curriculum and preparing for certification.
+
+The exercises are kept organized by topic so that I can:
+
+- Review JavaScript fundamentals
+- Practice concepts through small exercises
+- Track my progress
+- Refer back to previous solutions
+- Build a stronger foundation in JavaScript
+
+## 🛠️ Technology
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
+
+## 📁 Repository Structure
+
+```text
+freecodecamp-javascript-certificate-prep/
+├── boolean-and-numbers/
+├── objects/
+├── variables-and-strings/
+└── README.md
 ```
-boolean-and-numbers/
-  labs/
-  workshops/
-objects/
-  labs/
-  workshops/
-variables-and-strings/
-  labs/
-  workshops/
-```
 
-Each topic folder contains:
-- `labs/` — short, focused exercises practicing a single concept.
-- `workshops/` — slightly larger exercises combining several concepts.
+## 🚧 Status
 
-## Topics
+This repository is a **work in progress** and will continue to grow as I complete more exercises and topics.
 
-- **boolean-and-numbers** — booleans, comparison operators, arithmetic, numeric utilities.
-- **objects** — object literals, methods, nested objects, destructuring.
-- **variables-and-strings** — variable declarations/scope, string methods, template literals.
+## 🔗 freeCodeCamp
 
-## Running examples
+These exercises are based on material from [freeCodeCamp](https://www.freecodecamp.org/).
 
-Each file is a standalone Node.js script:
+---
 
-```
-node boolean-and-numbers/labs/lab-boolean-basics.js
-```
+⭐ This repository documents my progress toward completing the freeCodeCamp JavaScript curriculum.
